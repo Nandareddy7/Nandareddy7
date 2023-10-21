@@ -18,8 +18,9 @@
 🌐 I'm the architect behind a range of impactful projects, including a comprehensive Library Management System 📚, an interactive my very own Dynamic Personal Portfolio website 💼, and a Chat-Bot Ai application 🤖.
 📸 Beyond code, I capture life through photography 📷, find solace in music 🎶, cook up culinary delights 🍳, and enjoy cricket 🏏.
 
-🌟 Let's collaborate and bring your ideas to fruition. From responsive websites to innovative applications, let technology work wonders for you. ✨
-Feel free to reach out and let's start creating something amazing together! </p>
+🌟 Let's collaborate and bring your ideas to fruition. From responsive websites to innovative applications, let technology work wonders for you. 
+
+✨ Feel free to reach out and let's start creating something amazing together! </p>
 
 ###
 
