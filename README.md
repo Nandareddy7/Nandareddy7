@@ -9,11 +9,15 @@
 
 ###
 
-<p align="left">👋 Hey there! I'm Dammuru Nanda Kishore Reddy, a Python Full Stack Developer 🐍 passionate about building functional digital solutions. Holding a degree in Civil Engineering from JNTUA - UNIVERSITY and a Diploma from LOYOLA POLYTECHNIC COLLEGE, I've seamlessly transitioned into the world of tech. 🌍
+<p align="center">👋 Hey there! I'm Dammuru Nanda Kishore Reddy, a Python Full Stack Developer 🐍 passionate about building functional digital solutions. Holding a degree in Civil Engineering from JNTUA - UNIVERSITY and a Diploma from LOYOLA POLYTECHNIC COLLEGE, I've seamlessly transitioned into the world of tech. 🌍
+
 💼 As a Python Developer Intern at FRONTLINE EDUTECH, I've crafted an engaging quiz application 📝 and contributed to an AI-powered FAQ chatbot 🤖 during my stint at THOPS TECH PVT. LTD saw me developing mobile-responsive web applications and optimizing resource management through projects like the Library Management System 📚.
+
 🛠️ My expertise lies in Python (Django), SQL, HTML/CSS, JavaScript, and Git. I'm fluent in English 🇺🇸, Telugu 🇮🇳, and Kannada 🇮🇳.
+
 🌐 I'm the architect behind a range of impactful projects, including a comprehensive Library Management System 📚, an interactive my very own Dynamic Personal Portfolio website 💼, and a Chat-Bot Ai application 🤖.
 📸 Beyond code, I capture life through photography 📷, find solace in music 🎶, cook up culinary delights 🍳, and enjoy cricket 🏏.
+
 🌟 Let's collaborate and bring your ideas to fruition. From responsive websites to innovative applications, let technology work wonders for you. ✨
 Feel free to reach out and let's start creating something amazing together! </p>
 
