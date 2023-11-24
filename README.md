@@ -20,7 +20,7 @@
 
 🌟 Let's collaborate and bring your ideas to fruition. From responsive websites to innovative applications, let technology work wonders for you. 
 
-✨ Feel free to reach out and let's start creating something amazing together! </p>
+✨ Feel free to reach out and let's start creating something amazing together!  Email: nandakishorereddy023@gmail.com </p>
 
 ###
 
